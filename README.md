@@ -38,6 +38,10 @@ Comprobar experimentalmente el Análisis de Mallas basdos en las leyes y proceso
 
 ![yt](https://user-images.githubusercontent.com/93800511/142913586-9ae02642-389d-47fb-b40f-cf73c272f6f7.png)
 
+* Procedimiento 
+
+![789](https://user-images.githubusercontent.com/93800511/142924419-f49a2a30-f157-462f-8e12-6935053a42b1.png)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -50,6 +54,8 @@ Comprobar experimentalmente el Análisis de Mallas basdos en las leyes y proceso
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.7 .CONCLUCIONES**
+
+En conclución al aplicar en un circuito de dos fuentes como el propuesto para experimentación pudimos determinar sus corrientes y relaciones por medio de las leyes de Kirchoff haiendo enfasis en los procesos de aanálisis de mallas sonde los valores teoricos tanto como los simulados demostraron ser muy similares ya que estos se trabajan en medios ideales donde las resistencias y tolerancias no afectan las cargas y corrientes, finalmente se expresan en las tablas para podert ver dichas diferencias.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
