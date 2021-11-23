@@ -42,6 +42,8 @@ Comprobar experimentalmente el Análisis de Mallas basdos en las leyes y proceso
 
 ![789](https://user-images.githubusercontent.com/93800511/142924419-f49a2a30-f157-462f-8e12-6935053a42b1.png)
 
+MALLA~1\\~~~~~~18V-VR1-VR2= 0\\~~~~~~18V-I1\left ( 820 \right )-\left ( I1-I2 \right )\left ( 1000 \right )= 0\\~~~~~~1820I1-1000I2-= 18
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
