@@ -42,12 +42,14 @@ Comprobar experimentalmente el Análisis de Mallas basdos en las leyes y proceso
 
 ![789](https://user-images.githubusercontent.com/93800511/142924419-f49a2a30-f157-462f-8e12-6935053a42b1.png)
 
-<img src="https://latex.codecogs.com/svg.image?MALLA~1\\~~~~~~18V-VR1-VR2=&space;0\\~~~~~~18V-I1\left&space;(&space;820&space;\right&space;)-\left&space;(&space;I1-I2&space;\right&space;)\left&space;(&space;1000&space;\right&space;)=&space;0\\~~~~~~1820I1-1000I2-=&space;18" title="MALLA~1\\~~~~~~18V-VR1-VR2= 0\\~~~~~~18V-I1\left ( 820 \right )-\left ( I1-I2 \right )\left ( 1000 \right )= 0\\~~~~~~1820I1-1000I2-= 18" />
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.5 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
+
+<img src="https://latex.codecogs.com/svg.image?MALLA~1\\~~~~~~18V-VR1-VR2=&space;0\\~~~~~~18V-I1\left&space;(&space;820&space;\right&space;)-\left&space;(&space;I1-I2&space;\right&space;)\left&space;(&space;1000&space;\right&space;)=&space;0\\~~~~~~1820I1-1000I2-=&space;18" title="MALLA~1\\~~~~~~18V-VR1-VR2= 0\\~~~~~~18V-I1\left ( 820 \right )-\left ( I1-I2 \right )\left ( 1000 \right )= 0\\~~~~~~1820I1-1000I2-= 18" />
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
