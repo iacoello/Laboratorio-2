@@ -48,6 +48,8 @@ Comprobar experimentalmente el Análisis de Mallas basdos en las leyes y proceso
 
 **1.5 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
+PROCESO SIMULADO
+
 Circuito Armado
 
 ![circuito armado](https://user-images.githubusercontent.com/93835587/142962783-91271325-9742-4a74-97bd-0df20a8745ab.jpg)
@@ -61,6 +63,9 @@ Voltios medidos en el circuitos
 
 ![volteos](https://user-images.githubusercontent.com/93835587/142962957-0bb27c90-f1fd-433b-a23f-7b0e342dc7a0.jpg)
 
+PROCESO EXPERIMENTAL
+
+PROCESO ANALITICO
 Analisis de mallas
 
 ![analisis de mallas](https://user-images.githubusercontent.com/93835533/142963808-15da0418-dfc7-4e72-9b61-e3ce606f87e2.png)
