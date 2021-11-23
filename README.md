@@ -61,6 +61,7 @@ Volteos medidos en circuitos
 
 ![volteos](https://user-images.githubusercontent.com/93835587/142962957-0bb27c90-f1fd-433b-a23f-7b0e342dc7a0.jpg)
 
+Analisis de mallas
 
 <img src="https://latex.codecogs.com/svg.image?MALLA~1\\~~~~~~18V-VR1-VR2=&space;0\\~~~~~~18V-I1\left&space;(&space;820&space;\right&space;)-\left&space;(&space;I1-I2&space;\right&space;)\left&space;(&space;1000&space;\right&space;)=&space;0\\~~~~~~1820I1-1000I2-=&space;18" title="MALLA~1\\~~~~~~18V-VR1-VR2= 0\\~~~~~~18V-I1\left ( 820 \right )-\left ( I1-I2 \right )\left ( 1000 \right )= 0\\~~~~~~1820I1-1000I2= 18" />
 
