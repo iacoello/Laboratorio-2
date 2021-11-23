@@ -52,6 +52,8 @@ Comprobar experimentalmente el Análisis de Mallas basdos en las leyes y proceso
 
 <img src="https://latex.codecogs.com/svg.image?MALLA~2\\~~~-VR3-VR4-VR2=&space;0\\~~~-I2\left&space;(&space;1200&space;\right&space;)-\left&space;(&space;I2-I3&space;\right&space;)\left&space;(&space;2000&space;\right&space;)-\left&space;(&space;I2-I1&space;\right&space;)\left&space;(&space;1000&space;\right&space;)=&space;0\\~~~~~~~1000I1~-4400I2&plus;2200I3=&space;0" title="MALLA~2\\~~~-VR3-VR4-VR2= 0\\~~~-I2\left ( 1200 \right )-\left ( I2-I3 \right )\left ( 2000 \right )-\left ( I2-I1 \right )\left ( 1000 \right )= 0\\~~~~~~~1000I1~-4400I2+2200I3= 0" />
 
+<img src="https://latex.codecogs.com/svg.image?MALLA~3\\~~~-VR5-5V-VR4=&space;0\\~~~-I3\left&space;(&space;390&space;\right&space;)-5V-\left&space;(&space;I3-I2&space;\right&space;)\left&space;(&space;2200&space;\right&space;)=&space;0\\~~~-2590I3~-2200I2=&space;5" title="MALLA~3\\~~~-VR5-5V-VR4= 0\\~~~-I3\left ( 390 \right )-5V-\left ( I3-I2 \right )\left ( 2200 \right )= 0\\~~~-2590I3~-2200I2= 5" />
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.6 VIDEOS**
