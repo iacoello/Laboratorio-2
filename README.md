@@ -57,7 +57,7 @@ Medición de corriente en las mallas del circuito
 
 ![medicion](https://user-images.githubusercontent.com/93835587/142962881-1fb148eb-df30-4323-9e1a-69c442fb8b6e.jpg)
 
-Volteos medidos en circuitos 
+Volteos medidos en el circuitos 
 
 ![volteos](https://user-images.githubusercontent.com/93835587/142962957-0bb27c90-f1fd-433b-a23f-7b0e342dc7a0.jpg)
 
