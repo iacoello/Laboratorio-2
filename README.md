@@ -54,6 +54,10 @@ Circuito Armado
 
 ![circuito armado](https://user-images.githubusercontent.com/93835587/142962783-91271325-9742-4a74-97bd-0df20a8745ab.jpg)
 
+
+![2548eda6-6c78-455a-92e3-c5632afb84c1](https://user-images.githubusercontent.com/93800511/142968657-b0ec5526-fc7f-4a6a-93d0-99b1af6ecaef.jpg)
+
+
 Medición de corriente en las mallas del circuito 
 
 
