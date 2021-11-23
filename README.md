@@ -48,6 +48,20 @@ Comprobar experimentalmente el Análisis de Mallas basdos en las leyes y proceso
 
 **1.5 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
+Circuito Armado
+
+![circuito armado](https://user-images.githubusercontent.com/93835587/142962783-91271325-9742-4a74-97bd-0df20a8745ab.jpg)
+
+Medición de corriente en las mallas del circuito 
+
+
+![medicion](https://user-images.githubusercontent.com/93835587/142962881-1fb148eb-df30-4323-9e1a-69c442fb8b6e.jpg)
+
+Volteos medidos en circuitos 
+
+![volteos](https://user-images.githubusercontent.com/93835587/142962957-0bb27c90-f1fd-433b-a23f-7b0e342dc7a0.jpg)
+
+
 <img src="https://latex.codecogs.com/svg.image?MALLA~1\\~~~~~~18V-VR1-VR2=&space;0\\~~~~~~18V-I1\left&space;(&space;820&space;\right&space;)-\left&space;(&space;I1-I2&space;\right&space;)\left&space;(&space;1000&space;\right&space;)=&space;0\\~~~~~~1820I1-1000I2-=&space;18" title="MALLA~1\\~~~~~~18V-VR1-VR2= 0\\~~~~~~18V-I1\left ( 820 \right )-\left ( I1-I2 \right )\left ( 1000 \right )= 0\\~~~~~~1820I1-1000I2= 18" />
 
 <img src="https://latex.codecogs.com/svg.image?MALLA~2\\~~~-VR3-VR4-VR2=&space;0\\~~~-I2\left&space;(&space;1200&space;\right&space;)-\left&space;(&space;I2-I3&space;\right&space;)\left&space;(&space;2000&space;\right&space;)-\left&space;(&space;I2-I1&space;\right&space;)\left&space;(&space;1000&space;\right&space;)=&space;0\\~~~~~~~1000I1~-4400I2&plus;2200I3=&space;0" title="MALLA~2\\~~~-VR3-VR4-VR2= 0\\~~~-I2\left ( 1200 \right )-\left ( I2-I3 \right )\left ( 2000 \right )-\left ( I2-I1 \right )\left ( 1000 \right )= 0\\~~~~~~~1000I1~-4400I2+2200I3= 0" />
