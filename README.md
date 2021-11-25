@@ -70,6 +70,7 @@ Voltios medidos en el circuitos
 
 PROCESO SIMULADO
 
+![761452e5-9458-446c-aaf3-44ebf1b551b3](https://user-images.githubusercontent.com/93800511/143476674-399d4e92-5fb8-4ab6-9e51-a3bbaddb8c9c.jpg)
 
 PROCESO EXPERIMENTAL
 
