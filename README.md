@@ -84,6 +84,9 @@ Analisis de mallas
 <img src="https://latex.codecogs.com/svg.image?I1=&space;0,0114546A\to&space;11,45mA\\~~~~~I2=&space;0,002847A\to&space;2,85mA\\~~~~~I3=&space;0,0004881A\to&space;0,49mA" title="I1= 0,0114546A\to 11,45mA\\~~~~~I2= 0,002847A\to 2,85mA\\~~~~~I3= 0,0004881A\to 0,49mA" />
 
 
+
+![tabla](https://user-images.githubusercontent.com/93835533/143464953-f852c70a-3112-4e54-b2dc-7b16f53e9e52.png)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.6 VIDEOS**
