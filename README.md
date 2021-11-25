@@ -81,11 +81,11 @@ Analisis de mallas
 
 <img src="https://latex.codecogs.com/svg.image?MALLA~3\\~~~-VR5-5V-VR4=&space;0\\~~~-I3\left&space;(&space;390&space;\right&space;)-5V-\left&space;(&space;I3-I2&space;\right&space;)\left&space;(&space;2200&space;\right&space;)=&space;0\\~~~-2590I3~-2200I2=&space;5" title="MALLA~3\\~~~-VR5-5V-VR4= 0\\~~~-I3\left ( 390 \right )-5V-\left ( I3-I2 \right )\left ( 2200 \right )= 0\\~~~-2590I3~-2200I2= 5" />
 
-<img src="https://latex.codecogs.com/svg.image?I1=&space;0,0114546A\to&space;11,45mA\\~~~~~I2=&space;0,002847A\to&space;2,85mA\\~~~~~I3=&space;0,0004881A\to&space;0,49mA" title="I1= 0,0114546A\to 11,45mA\\~~~~~I2= 0,002847A\to 2,85mA\\~~~~~I3= 0,0004881A\to 0,49mA" />
+<img src="https://latex.codecogs.com/svg.image?I1=&space;0,0114546A\to&space;11,45mA\\~~~~~I2=&space;0,002847A\to&space;2,85mA\\~~~~~I3=&space;0,0004881A\to&space;0,49mA" tit!
+le="I1= 0,0114546A\to 11,45mA\\~~~~~I2= 0,002847A\to 2,85mA\\~~~~~I3= 0,0004881A\to 0,49mA" />
 
+[resultados](https://user-images.githubusercontent.com/93835587/143474481-c1b925e5-bc60-43d4-890d-ee51bb634721.jpg)
 
-
-![tabla](https://user-images.githubusercontent.com/93835533/143464953-f852c70a-3112-4e54-b2dc-7b16f53e9e52.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
