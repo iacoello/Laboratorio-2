@@ -72,6 +72,7 @@ PROCESO SIMULADO
 
 
 PROCESO EXPERIMENTAL
+
 Analisis de mallas
 
 ![analisis de mallas](https://user-images.githubusercontent.com/93835533/142963808-15da0418-dfc7-4e72-9b61-e3ce606f87e2.png)
